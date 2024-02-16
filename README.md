@@ -8,6 +8,9 @@ This is a simple Flutter app that displays quotes using Provider state managemen
 - Implement pagination to load more quotes.
 - Use Provider for state management.
 - Follow MVVM architecture.
-  
+
+## Preview  
+
+![Uploading Monochrome Elegant Professional Company Profile Presentation 169.png…]()
 
 
