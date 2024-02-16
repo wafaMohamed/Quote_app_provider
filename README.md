@@ -11,5 +11,6 @@ This is a simple Flutter app that displays quotes using Provider state managemen
 
 ## Preview  
 
+![Monochrome Elegant Professional Company Profile Presentation 169](https://github.com/wafaMohamed/Quote_app_provider/assets/101423134/99becfcd-4461-4ac7-bfe0-ee94adf0fde0)
 
 
