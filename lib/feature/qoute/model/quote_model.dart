@@ -20,22 +20,22 @@ class QuoteModel {
   }
 }
 
-class PaginationModel {
-  final int currentPage;
-  final int nextPage;
-  final int totalPages;
-
-  const PaginationModel({
-    required this.currentPage,
-    required this.nextPage,
-    required this.totalPages,
-  });
-
-  factory PaginationModel.fromJson(Map<String, dynamic> json) {
-    return PaginationModel(
-      currentPage: json['currentPage'] as int,
-      nextPage: json['nextPage'] as int,
-      totalPages: json['totalPages'] as int,
-    );
-  }
-}
+// class PaginationModel {
+//   final int currentPage;
+//   final int nextPage;
+//   final int totalPages;
+//
+//   const PaginationModel({
+//     required this.currentPage,
+//     required this.nextPage,
+//     required this.totalPages,
+//   });
+//
+//   factory PaginationModel.fromJson(Map<String, dynamic> json) {
+//     return PaginationModel(
+//       currentPage: json['currentPage'] as int,
+//       nextPage: json['nextPage'] as int,
+//       totalPages: json['totalPages'] as int,
+//     );
+//   }
+// }
