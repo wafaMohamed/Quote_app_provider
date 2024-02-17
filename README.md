@@ -1,16 +1,16 @@
-# quote_app
+# Quote App
 
-A new Flutter project.
+This simple Flutter app displays quotes using Provider state management and follows the MVVM (Model-View-ViewModel) architecture. It also implements pagination to fetch and display quotes in a paginated manner.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Display quotes in a list.
+- Implement pagination to load more quotes.
+- Use Provider for state management.
+- Follow MVVM architecture.
+- Using Restful API.
+- Using Mockito and Mocktail packages to test any classes that depend on databases or web services.
+  
+## Preview  
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Monochrome Elegant Professional Company Profile Presentation 169 (1)](https://github.com/wafaMohamed/Quote_app_provider/assets/101423134/34dce423-d668-4b73-a124-99af8e266b97)
