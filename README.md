@@ -1,6 +1,6 @@
 # Quote App
 
-This is a simple Flutter app that displays quotes using Provider state management and follows the MVVM (Model-View-ViewModel) architecture. It also implements pagination to fetch and display quotes in a paginated manner.
+This simple Flutter app displays quotes using Provider state management and follows the MVVM (Model-View-ViewModel) architecture. It also implements pagination to fetch and display quotes in a paginated manner.
 
 ## Features
 
@@ -9,6 +9,7 @@ This is a simple Flutter app that displays quotes using Provider state managemen
 - Use Provider for state management.
 - Follow MVVM architecture.
 - Using Restful API.
+- Using Mockito and Mocktail packages to test any classes that depend on databases or web services.
   
 ## Preview  
 
